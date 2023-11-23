@@ -9,4 +9,4 @@ Kullanıcı adı: borholding
 
 4.Veritabanında "bor_holding" adında bir tablo oluşturulmalıdır. Dışa aktarılan sql dosyası buraya içe aktarılmalıdır.
 
-5. XAMPP -> httpdocs içinde ana(main) klasör "bor-holding" olmalıdr. URL ve yollar buna göre düzenlenmiştir.
+5. XAMPP -> httpdocs içinde ana(main) klasör "bor_holding" olmalıdr. URL ve yollar buna göre düzenlenmiştir.
